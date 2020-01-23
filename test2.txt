@@ -1,0 +1,12 @@
+ Volume in drive C is SOE
+ Volume Serial Number is D87D-D3AF
+
+ Directory of C:\MyProject
+
+01/23/2020  07:10 PM    <DIR>          .
+01/23/2020  07:10 PM    <DIR>          ..
+01/23/2020  06:48 PM               381 index.html
+01/23/2020  05:56 PM                 7 test1.txt
+01/23/2020  07:10 PM                 0 test2.txt
+               3 File(s)            388 bytes
+               2 Dir(s)  175,056,289,792 bytes free
